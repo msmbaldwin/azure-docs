@@ -1,5 +1,5 @@
 # Azure Technical Documentation Contributor Guide
-You've found the GitHub repository that houses the source for the Azure technical documentation that is published on [http://docs.microsoft.com/azure](http://docs.microsoft.com/azure).
+You've found the GitHub repository that houses the source for the Azure technical documentation that is published on <http://learn.microsoft.com/azure>.
 
 This repository also contains guidance to help you contribute to our technical documentation. For a list of the articles in the contributors' guide, see [the index](contributor-guide/contributor-guide-index.md).
 
@@ -17,9 +17,9 @@ Thank you for your interest in Azure documentation!
 * [Index of all contributors' guide articles](contributor-guide/contributor-guide-index.md) (opens new page)
 
 ## Ways to contribute
-You can submit updates to the [Azure documentation](http://docs.microsoft.com/azure) as follows:
+You can submit updates to the [Azure documentation](http://learn.microsoft.com/azure) as follows:
 
-* You can easily contribute to technical articles in the GitHub user interface. Either find the article in this repository, or visit the article on [http://docs.microsoft.com/azur](http://docs.microsoft.com/azur) and click the link in the article that goes to the GitHub source for the article.
+* You can easily contribute to technical articles in the GitHub user interface. Either find the article in this repository, or visit the article on <http://learn.microsoft.com/azure> and click the link in the article that goes to the GitHub source for the article.
 * If you are making substantial changes to an existing article, adding or changing images, or contributing a new article, you need to fork this repository, install Git Bash, Markdown Pad, and learn some git commands.
 
 ## Code of conduct
@@ -27,13 +27,13 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ## About your contributions to Azure content
 ### Minor corrections
-Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the [docs.microsoft.com Terms of Use](/enterprise-mobility-security/termsofuse).
+Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the [learn.microsoft.com Terms of Use](/enterprise-mobility-security/termsofuse).
 
 ### Larger submissions
 If you submit a pull request with new or significant changes to documentation and code examples, we'll send a comment in GitHub asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Microsoft. We need you to complete the online form before we can accept your pull request.
 
 ## Repository organization
-The content in the azure-docs repository follows the organization of documentation on http://docs.microsoft.com/azure. This repository contains two root folders:
+The content in the azure-docs repository follows the organization of documentation on <http://learn.microsoft.com/azure>. This repository contains two root folders:
 
 ### \articles
 The *\articles* folder contains the documentation articles formatted as markdown files with an *.md* extension. Articles are typically grouped by Azure service. 
